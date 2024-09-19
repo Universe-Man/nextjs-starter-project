@@ -1,0 +1,9 @@
+{
+  "editor.inlayHints.enabled": "on",
+  "editor.tabSize": 2,
+  "editor.parameterHints.enabled": true,
+  "editor.suggest.showTypeParameters": true,
+  "breadcrumbs.showTypeParameters": true,
+  "outline.showTypeParameters": true,
+  "editor.parameterHints.cycle": true
+}
